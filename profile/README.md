@@ -11,4 +11,3 @@ Our current main project right now is [Y Sides](https://gamebanana.com/mods/5868
 Main contributors of Sugarn't Crew:
  - @MrMadera: The main coder of all the mods you play from us (and also the writer of this :D!)
  - @gBv2209: The main artist. the creator of those gorgeus drawings you visualize while you play with hunders of bugs (sorry!). Anyways, he' also a great composer and the creator of some cool tracks and animator.
- - @SFoxyDAC: The main animator of the group, thank him for those amazing and fluent animations he does! He's a great composer and artist too!
